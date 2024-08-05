@@ -18,6 +18,7 @@ public interface UserMapper {
 
     public User add();
 
+    public void update();
     public void update1();
 
 }
