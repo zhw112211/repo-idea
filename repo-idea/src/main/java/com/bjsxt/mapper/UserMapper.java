@@ -14,4 +14,6 @@ public interface UserMapper {
 
     User getUser(Long id);
 
+    public void setUser();
+
 }
