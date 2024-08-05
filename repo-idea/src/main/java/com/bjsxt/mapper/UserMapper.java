@@ -16,4 +16,6 @@ public interface UserMapper {
 
     public void setUser();
 
+    public User add();
+
 }
